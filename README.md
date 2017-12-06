@@ -1,7 +1,7 @@
 Nombres
 Blanca
+3- Karla 
 2- Delia
-Karla 
 4- Raquel
 JOSE LUIS TORRES GARZA
 ANEL J. TORRES DIAZ
