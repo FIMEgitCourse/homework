@@ -1,4 +1,6 @@
 Nombres
+1- Blanca
+Delia
 Blanca
 3- Karla 
 2- Delia
