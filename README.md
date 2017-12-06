@@ -1,9 +1,9 @@
 Nombres
-Blanca
+1- Blanca
+3- Karla 
 2- Delia
-Karla 
 5.- JOSE LUIS TORRES GARZA
 4- Raquel
-JOSE LUIS TORRES GARZA
-ANEL J. TORRES DIAZ
 7- Everardo
+7.- ANEL J. TORRES DIAZ
+
